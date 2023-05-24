@@ -3,6 +3,12 @@
 
 This is the repository for my bookings and reservations project, which is part of 
 the Udemy course [Building modern web applications in Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
+
+- Built in Go version 1.17.x
+  
+Dependencies:
+
+- [chi router](https://github.com/go-chi/chi)
 - [alex edwards SCS](https://github.com/alexedwards/scs/v2) session management
 - [nosurf](https://github.com/justinas/nosurf)
 - [pgx](https://github.com/jackc/pgx/v4)
