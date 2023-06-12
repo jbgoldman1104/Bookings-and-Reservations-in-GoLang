@@ -1,4 +1,3 @@
-development:
   dialect: postgres
   database: bookings
   user:
