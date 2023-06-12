@@ -1,4 +1,3 @@
---
 -- PostgreSQL database dump
 --
 
